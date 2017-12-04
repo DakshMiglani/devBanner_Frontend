@@ -1,13 +1,13 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
-import Landing from './components/landing.vue';
+import Home from './components/home.vue';
 
 Vue.use(VueRouter);
 
 let routes = [
   {
     path: '/',
-    component: Landing,
+    component: Home,
   },
 ];
 
