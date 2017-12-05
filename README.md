@@ -9,4 +9,4 @@ Click this button to join.
 [![Gitter chat](https://badges.gitter.im/gitterHQ/services.png)](https://gitter.im/devBanner/Lobby)
 
 #### devBanner development repo (for all)
-**https://github.com/cozyplanes/devBanner**
+**https://github.com/devBanner/devBanner**
