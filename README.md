@@ -1,5 +1,5 @@
 # devBanner_Frontend 
-https://devBanner.github.io/devBanner_Frontend         
+https://devbanner.center    
 
 Responsive web page in development for devBanner
 
