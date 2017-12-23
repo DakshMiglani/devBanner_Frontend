@@ -1,7 +1,10 @@
 # devBanner_Frontend 
 https://devbanner.center    
 
-Responsive web page in development for devBanner
+Responsive web page for devBanner
+
+Files are located in branch `gh-pages`
+Do not merge to `master`
 
 ----
 
