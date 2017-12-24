@@ -3,7 +3,7 @@ https://devbanner.center
 
 Responsive web page for devBanner
 
-Files are located in branch `gh-pages`
+Files are located in branch `gh-pages`            
 Do not merge to `master`
 
 ----
